@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm test -- --watch",
+    "start:c9": "rm -rfd .c9 && npm start",
     "test": "jest"
   },
   "keywords": [],
