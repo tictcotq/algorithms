@@ -1,4 +1,4 @@
-const find = require('./task');
+const find = require('./problem');
 
 describe("find in sorted matrix", function() {
 	it("should pass an example (positive)", function() {
